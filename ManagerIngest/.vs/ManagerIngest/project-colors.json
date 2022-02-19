@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9ad7acbb-fc78-454d-a121-6643fac71648": {
+      "ProjectGuid": "9ad7acbb-fc78-454d-a121-6643fac71648",
+      "DisplayName": "ManagerIngest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
